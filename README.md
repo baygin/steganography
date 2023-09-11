@@ -4,7 +4,9 @@ Steganography is the art of hiding information within other data, like concealin
 
 The library offers steganography using a straightforward algorithm.
 
-<b> Supports only BMP file format. </b>
+Supports only BMP file format.
+
+BMP library: <a href="https://github.com/mattflow/cbmp" target="_blank"> https://github.com/mattflow/cbmp </a>
 
 # Prerequisites
 
