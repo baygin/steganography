@@ -1,0 +1,4 @@
+bin/
+assets/output.bmp
+src/*.o
+.vscode/
