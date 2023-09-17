@@ -49,7 +49,6 @@ long st_binary_to_char(char *binary)
 {
     return strtol(binary, 0, 2);
 }
-#include <stdio.h>
 
 static char *st_char_to_string(char c)
 {
