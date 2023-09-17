@@ -92,7 +92,7 @@ $ make
 ### Encode
 
 ```bash
-$ ./bin/steganography encode ./assets/input.bmp output.bmp "the secret message"
+$ ./bin/steganography encode ./assets/input.bmp ./assets/output.bmp "the secret message"
 ```
 
 ### Decode
